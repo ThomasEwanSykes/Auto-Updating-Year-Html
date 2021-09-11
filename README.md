@@ -5,4 +5,4 @@
 Use the following code to have an auto updating year in HTML
 
 # Code
-<code><script>document.write(new Date().getFullYear());</script><code>
+<code><script>document.write(new Date().getFullYear());</script></code>
