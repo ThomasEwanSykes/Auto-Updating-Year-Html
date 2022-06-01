@@ -1,6 +1,6 @@
 
-# Auto-Updating-Year-Html
-Use the following code to have an auto updating year in HTML
+# Auto-Updating-Year-JavaScript
+Use the following code to have an auto updating year in JS
 
 # Code
 <code><script>document.write(new Date().getFullYear());</script></code>
