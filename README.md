@@ -8,7 +8,8 @@ I have added a PHP version of the Auto Updating Year in Javascript.
 <code><script>document.write(new Date().getFullYear());</script></code>
 
 # PHP code
-<code><?php echo date("Y"); ?></code>
+<small>don't forget the php opening tags</small><br>
+<code>echo date("Y"); </code>
 
 
 # Extra Shit
