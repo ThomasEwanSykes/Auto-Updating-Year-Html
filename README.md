@@ -9,7 +9,7 @@ I have added a PHP version of the Auto Updating Year in Javascript.
 
 # PHP code
 <small>don't forget the php opening tags</small><br>
-<code>echo date("Y"); </code>
+<code><?php echo date("Y"); ?></code>
 
 
 # Extra Shit
