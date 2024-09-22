@@ -1,15 +1,15 @@
 
 # Auto-Updating-Year-JavaScript
-Use the following code to have an auto updating year in JS
+Use the following code to have an auto-updating year in JS
 
-I have added a PHP version of the Auto Updating Year in Javascript.
+I have added a PHP version of the Auto-Updating Year in Javascript.
 
 # Javascript Code
 <code><script>document.write(new Date().getFullYear());</script></code>
 
 # PHP code
 <small>don't forget the php opening tags</small><br>
-<code>echo date("Y");</code><code>
+<code>echo date("Y");</code>
 
 
 # Extra Shit
